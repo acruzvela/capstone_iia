@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Capstone IBEX – Demo</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+
+<body>
+
+<h1>Capstone IBEX – Pipeline Sentimiento + Mercado</h1>
+
+<div class="layout">
+
+  <!-- PANEL IZQUIERDO -->
+  <div>
+
+    <h2>Capstone – Salidas</h2>
+    <div id="capstoneOut"></div>
+
+    <hr style="margin:18px 0;">
+
+    <h2>Selección de compañías</h2>
+    <table id="tablaTickers">
+      <thead>
+        <tr>
+          <th>Sel.</th>
+          <th>Ticker</th>
+          <th>Nombre</th>
+          <th>Sector</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+  </div>
+
+  <!-- PANEL DERECHO -->
+  <div class="panel-der">
+
+    <h2>Acciones</h2>
+
+    <h3>Datos</h3>
+    <button onclick="consultarSeleccion()">Consultar selección</button>
+    <button onclick="actualizarSeleccion()">Actualizar datos (agente)</button>
+
+    <h3>Pipeline NLP</h3>
+
+    <button onclick="showRAG()">1) RAG – documentos macro</button>
+    <button onclick="showSentiment()">2) Sentimiento agregado</button>
+    <button onclick="showFeatures()">3) Features mercado + macro</button>
+    <button onclick="showSentimentFiles()">4) Sentiment – outputs (CSV)</button>
+
+
+    <h3>Modelos capstone</h3>
+    <button onclick="runCapstone('daily_reg')">1) Daily regression</button>
+    <button onclick="runCapstone('event_reg')">2) Event regression</button>
+    <button onclick="runCapstone('event_cls')">3) Event classification</button>
+    <button onclick="clearCapstone()">Limpiar salidas</button>
+
+    <h3>Deep Learning</h3>
+    <button id="btnTransformer" onclick="showTransformer()">
+      Transformer (W60 → P5)
+    </button>
+  </div>
+
+</div>
+
+<script src="/static/js/app.js"></script>
+
+</body>
+</html>
+
+

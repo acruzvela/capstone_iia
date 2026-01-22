@@ -1,0 +1,19 @@
+{
+  "mode": "daily_reg",
+  "market": "index",
+  "ret_col": "ibex_ret_d_index",
+  "n_rows": 28,
+  "train_n": 19,
+  "test_n": 9,
+  "metrics": {
+    "mae": 0.003538219600325134,
+    "rmse": 0.0044768036484033455,
+    "r2": -0.01376885134653949,
+    "directional_accuracy": 0.6666666666666666
+  },
+  "coef": {
+    "macro_sent_lag2": -0.002555991681563303,
+    "macro_sent_lag3": -0.001421069714042155
+  },
+  "intercept": 0.001972896040888399
+}

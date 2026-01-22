@@ -1,0 +1,3 @@
+What is CBDC?
+
+CBDC stands for central bank digital currency. It’s digital money a country’s central bank can issue alongside cash. If we introduced one, we’d call it the digital pound.

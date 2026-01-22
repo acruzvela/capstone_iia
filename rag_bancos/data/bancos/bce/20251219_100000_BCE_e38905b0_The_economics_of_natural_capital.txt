@@ -1,0 +1,3 @@
+The economics of natural capital
+
+We develop a framework underscoring the importance of incorporating natural capital into growth models and policy discussions, recognizing its role as a productive input and as a sourceof enjoyment. Both firms and the government face the trade-off between exploitation and conservation and can (but do not have to) engage in costly conservation. Firms optimally conserve natural capital to support future production but underinvest compared to the social optimum. Public conservation complements private action, shifting focus from current consumption to future growth. Unique region-level data on the biodiversity of the forest in 582 regions across 44 countries confirm the main empirical predictions of the model.

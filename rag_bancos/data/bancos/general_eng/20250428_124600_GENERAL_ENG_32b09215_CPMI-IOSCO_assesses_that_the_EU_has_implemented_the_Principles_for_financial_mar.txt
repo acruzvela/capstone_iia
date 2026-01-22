@@ -1,0 +1,5 @@
+CPMI-IOSCO assesses that the EU has implemented the Principles for financial market infrastructures for two FMI types, but recommends some improvements
+
+The EU's framework for systemically important payment systems and central securities depositories/securities settlement systems is complete and consistent with the CPMI-IOSCO Principles for financial market infrastructures (PFMI) in most aspects.
+The CPMI-IOSCO assessment identified some areas for improvement where implementation was broadly or partly consistent or not consistent with the PFMI.
+The assessment reflects status of implementation as of October 2019. A separate assessment is to be conducted for United Kingdom.

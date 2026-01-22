@@ -1,0 +1,10 @@
+{
+  "fuente": "FED",
+  "source_name": "Reserva Federal",
+  "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "title": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
+  "link_hash": "4806b795",
+  "published": "2025-12-30T19:00:00+00:00",
+  "retrieved": "2026-01-01T17:31:28.081456+00:00"
+}

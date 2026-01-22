@@ -1,0 +1,3 @@
+From listings to all-tenant rents: a probabilistic model
+
+by Emanuel Nussli, Rachel Arulraj-Cordonier, Flurina Strasser, Marko Nanut Petrič, Morten Linnemann Bech, Antonio Pipino Rents are the largest component of the Consumer Price Index (CPI) in many countries, making accurate and timely measurements of rental price developments essential for inflation monitoring and policy decisions. Market (asking) rent indices are often available in near real-time and with high detail, but differ substantially from the rents paid by the overall tenant population, as typically measured in the CPI. This paper proposes a model to bridge the gap between asking and all-tenant rents.

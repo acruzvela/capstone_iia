@@ -1,0 +1,30 @@
+{
+  "mode": "event_cls",
+  "market": "index",
+  "ret_col": "ibex_ret_d_index",
+  "horizon": 3,
+  "n_rows": 34,
+  "train_n": 23,
+  "test_n": 11,
+  "class_balance": {
+    "1": 0.7058823529411765,
+    "0": 0.29411764705882354
+  },
+  "metrics": {
+    "accuracy": 0.7272727272727273
+  },
+  "confusion_matrix": [
+    [
+      1,
+      0
+    ],
+    [
+      3,
+      7
+    ]
+  ],
+  "coef_logodds": {
+    "macro_sent": 1.1819394827190142
+  },
+  "intercept": 0.4964928364949745
+}

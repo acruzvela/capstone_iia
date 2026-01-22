@@ -1,0 +1,10 @@
+{
+  "fuente": "FED",
+  "source_name": "Reserva Federal",
+  "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "title": "Federal Reserve issues FOMC statement",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+  "link_hash": "7149212a",
+  "published": "2025-12-10T19:00:00+00:00",
+  "retrieved": "2025-12-16T23:02:07.126828+00:00"
+}

@@ -1,0 +1,3 @@
+Nvidia makes its biggest purchase ever
+
+According to CNBC, Nvidia has agreed to pay about $20 billion in cash for Groq, a specialist in AI accelerator chips used to power inference—the stage where trained AI models actually answer questions, generate text, or drive real-time applications. Alex Davis, CEO of investment firm Disruptive, ...

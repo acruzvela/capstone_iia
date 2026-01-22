@@ -1,0 +1,3 @@
+Implementation of the Principles for effective risk data aggregation and risk reporting (BCBS 239 Principles)
+
+Since its publication in 2013, BCBS 239 has become a foundational framework for data management and risk management practices in the banking sector. While its principles still apply, its implementation has evolved over the years, reflecting changes in the business, technology and risk landscape.

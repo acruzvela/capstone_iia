@@ -1,0 +1,5 @@
+Moving on up: results of the 2024 cross-border payments monitoring survey
+
+Advancements in payment system interoperability and extensions vary across different systems and regions. Operating hour results have largely remained consistent year on year, but interest in 24/7 operations is noticeably increasing. The Asia-Pacific region is at the forefront of implementing interlinking arrangements.
+The adoption of ISO 20022 messaging standards and application programming interfaces (APIs) is progressing well. Many payment systems are either already processing or planning to adopt ISO 20022 messages and are incorporating APIs for data exchange.
+Numerous jurisdictions are implementing or planning legal and regulatory reforms to enhance payment system access for non-bank payment service providers and to strengthen data privacy legislation. A significant number of these jurisdictions are adopting a risk-based approach to prevent financial crime and are introducing digital identifiers for individuals and businesses.

@@ -1,0 +1,10 @@
+{
+  "fuente": "FED",
+  "source_name": "Reserva Federal",
+  "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "title": "Federal Reserve Board announces approval of the application by National Bank Holdings Corporation",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm",
+  "link_hash": "4d8d0051",
+  "published": "2025-12-23T18:30:00+00:00",
+  "retrieved": "2025-12-24T18:28:48.721098+00:00"
+}

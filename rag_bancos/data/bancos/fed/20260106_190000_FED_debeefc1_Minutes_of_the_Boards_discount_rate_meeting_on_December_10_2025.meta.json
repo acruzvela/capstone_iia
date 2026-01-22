@@ -1,0 +1,10 @@
+{
+  "fuente": "FED",
+  "source_name": "Reserva Federal",
+  "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "title": "Minutes of the Board's discount rate meeting on December 10, 2025",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
+  "link_hash": "debeefc1",
+  "published": "2026-01-06T19:00:00+00:00",
+  "retrieved": "2026-01-09T11:56:20.764866+00:00"
+}

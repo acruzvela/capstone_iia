@@ -1,0 +1,3 @@
+Inflation and the joint bond-FX spanning puzzle
+
+by Andreas Schrimpf, Markus Sihvonen We investigate the relationship between inflation and excess returns in bond and foreign exchange (FX) markets, specifically addressing the "spanning puzzle".

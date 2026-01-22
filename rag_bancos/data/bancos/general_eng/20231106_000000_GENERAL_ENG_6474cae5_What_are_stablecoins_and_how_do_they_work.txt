@@ -1,0 +1,3 @@
+What are stablecoins and how do they work?
+
+Stablecoins are a form of digital asset that can be used to make payments. They tend to be less volatile than cryptoassets. That is because their value is tied to other, stable, assets.

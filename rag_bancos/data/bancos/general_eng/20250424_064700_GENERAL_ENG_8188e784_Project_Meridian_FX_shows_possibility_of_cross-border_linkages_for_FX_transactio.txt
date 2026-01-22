@@ -1,0 +1,5 @@
+Project Meridian FX shows possibility of cross-border linkages for FX transactions between wholesale payment infrastructures
+
+Project Meridian FX proves that wholesale payment infrastructures, such as real-time gross settlement (RTGS) systems, can be interoperable via new technologies for FX transactions.
+The joint project between the Bank for International Settlements, Bank of England, Bank of France, Bank of Italy, Deutsche Bundesbank and European Central Bank explored synchronising foreign exchange (FX) transactions.
+It demonstrated that FX transactions could be settled across jurisdictions and different types of infrastructures.

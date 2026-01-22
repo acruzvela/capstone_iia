@@ -1,0 +1,10 @@
+{
+  "fuente": "FED",
+  "source_name": "Reserva Federal",
+  "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "title": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251125a.htm",
+  "link_hash": "c429c9cb",
+  "published": "2025-11-25T19:00:00+00:00",
+  "retrieved": "2025-12-16T23:02:07.126828+00:00"
+}

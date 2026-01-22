@@ -1,0 +1,10 @@
+{
+  "fuente": "FED",
+  "source_name": "Reserva Federal",
+  "feed_url": "https://www.federalreserve.gov/feeds/press_all.xml",
+  "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+  "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210b.htm",
+  "link_hash": "c4e6143f",
+  "published": "2025-12-10T19:00:00+00:00",
+  "retrieved": "2025-12-16T23:02:07.126828+00:00"
+}
