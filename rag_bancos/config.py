@@ -6,7 +6,7 @@ BASE_DATA_DIR = BASE_DIR / "data" / "bancos"
 BASE_EMB_DIR = BASE_DIR / "embeddings"
 BASE_FEATURES_DIR = BASE_DIR / "data" / "features"
 
-DB_PATH = Path(r"E:/cruz/informatica/sqlite/ibex35.db")
+DB_PATH = BASE_DIR.parent / "bbdd" / "ibex35.db"
 
 DATA_DIRS = {
     "BDE": str(BASE_DATA_DIR / "bde"),

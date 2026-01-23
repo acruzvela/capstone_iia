@@ -14,13 +14,12 @@ logger = logging.getLogger(__name__)
 PROJECT_ROOT = Path(__file__).resolve().parent
 OUTPUT_ROOT = PROJECT_ROOT / "outputs" / "transformer_market"
 
-# DB_PATH: prefer env var TRANSFORMER_MARKET_DB, si no existe usa ../data/ibex35.db
+# DB_PATH: prefer env var TRANSFORMER_MARKET_DB, si no existe usa ../bbdd/ibex35.db
 _db_env = os.getenv("TRANSFORMER_MARKET_DB")
 if _db_env:
 	DB_PATH = Path(_db_env)
 else:
-	# DB_PATH = PROJECT_ROOT.parent / "data" / "ibex35.db"
-	DB_PATH = Path(r"E:/cruz/informatica/sqlite/ibex35.db")
+	DB_PATH = PROJECT_ROOT.parent / "bbdd" / "ibex35.db"
 
 DB_PATH = Path(DB_PATH)
 
